@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color: #3b82f6 -->
+    <color name="primary">#FF3B82F6</color>
+    <color name="primary_dark">#FF2563EB</color>
+    <color name="primary_light">#FF93C5FD</color>
+    <color name="primary_variant">#FF1D4ED8</color>
+
+    <!-- Secondary: #64748b -->
+    <color name="secondary">#FF64748B</color>
+    <color name="secondary_dark">#FF475569</color>
+    <color name="secondary_light">#FF94A3B8</color>
+
+    <!-- Accent / Success: #06b6d4 -->
+    <color name="accent">#FF06B6D4</color>
+    <color name="success">#FF06B6D4</color>
+    <color name="success_light">#FF67E8F9</color>
+
+    <!-- Error: #EF4444 -->
+    <color name="error">#FFEF4444</color>
+    <color name="error_light">#FFFCA5A5</color>
+
+    <!-- Background: #f9fafb -->
+    <color name="background">#FFF9FAFB</color>
+
+    <!-- Surface: #ffffff -->
+    <color name="surface">#FFFFFFFF</color>
+
+    <!-- Text: #111827 -->
+    <color name="text_primary">#FF111827</color>
+    <color name="text_secondary">#FF6B7280</color>
+    <color name="text_hint">#FF9CA3AF</color>
+    <color name="text_on_primary">#FFFFFFFF</color>
+
+    <!-- Additional UI colors -->
+    <color name="divider">#FFE5E7EB</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="chip_background">#FFF3F4F6</color>
+    <color name="profit_green">#FF10B981</color>
+    <color name="loss_red">#FFEF4444</color>
+    <color name="warning">#FFF59E0B</color>
+    <color name="ripple_color">#203B82F6</color>
+    <color name="status_bar_color">#FF2563EB</color>
+    <color name="nav_bar_color">#FFFFFFFF</color>
+</resources>
