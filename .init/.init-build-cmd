@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew assembleDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/trade-journal-pro-241939-241953/trading_journal_android_app"
+}
